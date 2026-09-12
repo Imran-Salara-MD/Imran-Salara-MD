@@ -1,18 +1,120 @@
-# 💫 About Me:
-# 👋 Hi, I'm Imran Salara<br><br>### 🚀 WhatsApp Bot Developer | JavaScript Developer | App Developer | Automation Enthusiast<br><br>I'm a passionate **Software & Automation Developer** focused on building powerful, practical, and user-friendly digital solutions.<br><br>I specialize in developing **WhatsApp Bots, Web Applications, Mobile Apps, APIs, Automation Systems, Social Media Tools, and JavaScript-based projects**.<br><br>I enjoy turning ideas into real-world applications that are fast, reliable, scalable, and easy to use.<br><br>---<br><br>## 🧑‍💻 About Me<br><br>* 💻 **WhatsApp Bot Developer**<br>* ⚡ **JavaScript Developer**<br>* 📱 **Mobile & App Developer**<br>* 🌐 **Web Application Developer**<br>* 🤖 **Automation & Bot Development**<br>* 🔌 **API Integration & Development**<br>* 📲 **Social Media Tools & Solutions**<br>* 🛠️ **Backend & Server-side Development**<br>* 🔐 Interested in secure and scalable application development<br>* 🚀 Always exploring new technologies and development techniques<br><br>My goal is simple:<br><br>> **Build useful technology, automate repetitive tasks, and turn creative ideas into working software.**<br><br>---<br><br>## 🚀 What I Build<br><br>### 🤖 WhatsApp Bots<br><br>I develop feature-rich WhatsApp bots designed for automation, communication, and productivity.<br><br>**Bot Features:**<br><br>* 💬 Automated messaging<br>* 📥 Auto-reply systems<br>* 👥 Group management<br>* 🛡️ Admin & moderation tools<br>* 📁 Media downloading & processing<br>* 🔎 Search & utility commands<br>* 🎮 Fun & entertainment commands<br>* 🧰 Developer utilities<br>* 📊 User management<br>* ⚙️ Custom command systems<br>* 🔗 API integrations<br>* 🔄 Automated workflows<br><br>---<br><br>## 🌐 Web Development<br><br>I build modern web applications and web-based tools with a focus on:<br><br>* ⚡ Fast performance<br>* 📱 Responsive design<br>* 🎨 Clean UI/UX<br>* 🔐 Secure authentication<br>* 🔌 REST APIs<br>* 🗄️ Database integration<br>* 🚀 Scalable backend systems<br>* 🧩 Third-party API integrations<br><br>---<br><br>## 📱 App Development<br><br>I also work on application development and digital tools designed for real-world use.<br><br>Some areas I work with:<br><br>* 📱 Mobile Applications<br>* 🌐 Web Apps<br>* 🧰 Utility Applications<br>* 🤖 Automation Apps<br>* 🔗 API-based Applications<br>* 📊 Management & Dashboard Systems<br><br>---<br><br>## 💻 Tech Stack<br><br>### Languages<br><br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)<br>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)<br>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)<br>![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)<br><br>### JavaScript Ecosystem<br><br>![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)<br>![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)<br>![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)<br><br>### Databases<br><br>![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)<br>![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)<br><br>### Tools & Platforms<br><br>![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)<br>![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)<br>![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)<br><br>---<br><br>## 🤖 Automation & Integrations<br><br>I enjoy connecting different platforms and services together to create automated workflows.<br><br>### 🔗 Areas of Interest<br><br>* WhatsApp Automation<br>* REST API Integration<br>* Social Media Automation<br>* Web Automation<br>* Chatbot Development<br>* Notification Systems<br>* Data Processing<br>* Third-party API Integration<br>* Custom Developer Tools<br>* Workflow Automation<br><br>---<br><br>## 🛠️ Development Philosophy<br><br>I believe good software should be:<br><br>```text<br>⚡ Fast<br>🔐 Secure<br>🧩 Scalable<br>🎨 User Friendly<br>🛠️ Maintainable<br>🚀 Practical<br>```<br><br>I don't just focus on writing code — I focus on building solutions that actually solve problems.<br><br>---<br><br>## 📊 GitHub Activity<br><br><div align="center"><br><br>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true)<br><br>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight\&hide_border=true)<br><br></div><br><br>---<br><br>## 🚀 Current Focus<br><br>```javascript<br>const currentFocus = {<br>    development: [<br>        "WhatsApp Bots",<br>        "JavaScript Applications",<br>        "Web Development",<br>        "Mobile Applications",<br>        "API Integrations",<br>        "Automation Systems"<br>    ],<br><br>    learning: [<br>        "Advanced JavaScript",<br>        "Backend Development",<br>        "Cloud Technologies",<br>        "Scalable Architecture",<br>        "AI & Automation"<br>    ],<br><br>    goal: "Build useful, powerful and scalable digital solutions 🚀"<br>};<br><br>console.log("Keep Building. Keep Learning. Keep Growing. 🚀");<br>```<br><br>---<br><br>## 🌟 Featured Projects<br><br>I continuously work on projects involving:<br><br>🤖 **WhatsApp Bots**<br>🌐 **Web Applications**<br>📱 **Mobile Apps**<br>⚙️ **Automation Tools**<br>🔌 **APIs & Integrations**<br>📊 **Management Systems**<br>🛠️ **Developer Utilities**<br>📲 **Social Media Solutions**<br><br>Check out my repositories to explore my latest work.<br><br>---<br><br>## 📫 Connect With Me<br><br>I'm always interested in discussing:<br><br>* 💡 New project ideas<br>* 🤝 Collaboration<br>* 💻 Development<br>* 🤖 Bot automation<br>* 📱 App development<br>* 🌐 Web technologies<br>* 🚀 Innovative digital solutions<br><br>### ⭐ If you find my projects useful, consider giving them a Star!<br><br>---<br><br><div align="center"><br><br>### 💻 Code • 🤖 Automate • 🚀 Innovate<br><br>**Thanks for visiting my GitHub profile!**<br><br></div><br>
+<p align="center">
+  <img src="./banner.png" alt="Imran Salara MD Bot" width="100%">
+</p>
 
+<h1 align="center">Imran Salara MD</h1>
+<h3 align="center">Professional WhatsApp Multi-Device Bot ⚡</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Imran-Salara-MD) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Imran-Salara-MD) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Imran-Salara-MD) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@aislamicwarse) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Imran-Salara-MD&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Imran-Salara-MD&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Imran-Salara-MD&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://github.com/Imran7807/Imran-Salara-MD/fork">
+    <img src="https://img.shields.io/badge/Fork%20Repo-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=green" alt="Fork repo">
+  </a>
+  <a href="https://github.com/Imran7807/Imran-Salara-MD/stargazers">
+    <img src="https://img.shields.io/badge/Star%20Repo-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=yellow" alt="Star repo">
+  </a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Imran-Salara-MD&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🤖 About Imran-Salara-MD
+
+**Imran-Salara-MD** ek open-source, feature-rich WhatsApp Multi-Device bot hai — Post Maker, Funny/Memes, Stickers, Status Save, Reels/Video Downloader, AI Chat, Group Tools, Media Tools aur Automation jaisi features ke saath.
+
+> Built on top of the Baileys Multi-Device library.
+
+---
+
+## ✨ Features
+
+| Feature | Description |
+|---|---|
+| 📝 Post Maker | Create amazing posts |
+| 😂 Funny / Memes | Laugh more, share more |
+| 🎨 Stickers | Custom & trending stickers |
+| 📸 Status | Save & share statuses |
+| 🎬 Reels / Video | Create, download & share |
+| ⬇️ Downloader | Video, image & audio |
+| 🧠 AI Chat | Smart & fast replies |
+| 👥 Group Tools | Manage & moderate |
+| 🛠️ Media Tools | Compress, convert & edit |
+| ⚙️ Automation | Save time, work smarter |
+
+---
+
+## 👤 Owner / Developer
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Whatsapp_Contact-100000?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=green&color=green" alt="Whatsapp Contact">
+  </a>
+  <a href="https://github.com/Imran7807/Imran-Salara-MD/fork">
+    <img src="https://img.shields.io/badge/Fork_Repo-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=red" alt="Fork repo">
+  </a>
+</p>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Follow_ON_TikTok-100000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=black&color=black" alt="Tiktok"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Follow_ON_Instagram-100000?style=for-the-badge&logo=instagram&logoColor=red&labelColor=white&color=red" alt="Instagram"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Facebook_Profile-100000?style=for-the-badge&logo=facebook&logoColor=white&labelColor=black&color=blue" alt="Facebook"></a>
+</p>
+
+> ⚠️ **Note:** Upar diye gaye contact/social badges placeholders hain — inko apne WhatsApp number aur social links se replace kar lein (README source mein `href="#"` ki jagah apna link daal dein).
+
+---
+
+## 🍴 Fork This Repo
+
+<p align="center">
+  <a href="https://github.com/Imran7807/Imran-Salara-MD/fork">
+    <img src="https://img.shields.io/badge/Fork_Repo-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=red" alt="Fork repo">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/For_Help-100000?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=black&color=green" alt="For Help">
+  </a>
+</p>
+
+---
+
+## 🔑 Session ID
+
+<p align="center">
+  <a href="https://seasonidi-da5b18250d03.herokuapp.com/wasiqr">
+    <img src="https://img.shields.io/badge/Pair_Code-100000?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=black&color=red" alt="Pair Code">
+  </a>
+  <a href="https://seasonidi-da5b18250d03.herokuapp.com/pair">
+    <img src="https://img.shields.io/badge/QR_Code-100000?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=black&color=red" alt="QR Code">
+  </a>
+</p>
+
+How to get your Session ID — pairing service link se apna number connect karein aur mila hua session ID apni `config.js` / environment variables mein daal dein.
+
+---
+
+## 🚀 Deployment
+
+<p align="center">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/Imran7807/Imran-Salara-MD">
+    <img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098" alt="Deploy to Heroku">
+  </a>
+</p>
+
+### Local / VPS Setup
+
+```bash
+git clone https://github.com/Imran7807/Imran-Salara-MD.git
+cd Imran-Salara-MD
+npm install
+npm run start
+```
+
+---
+
+## ⚠️ Warning
+
+- *Yeh bot `WhatsApp Inc.` ka official product nahi hai. Ise misuse karne se aapka `WhatsApp account` `ban` ho sakta hai (aapka account sirf ek dafa unban ho sakta hai).*
+- *Account ban hone ki koi zimmedari developer par nahi hai.*
+- *Is warning ko dhyan mein rakhte hue apni zimmedari par istemal karein.*
+
+---
+
+<p align="center">Build · Share · Enjoy — <b>Imran Salara MD</b></p>
